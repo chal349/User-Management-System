@@ -10,6 +10,6 @@ Next create a free database at mongodb.com.
 
 Create a .env file with PORT and MONGO_URI Variables. 
 
-MONGO_URI=<your mongodb key>
+MONGO_URI= your mongodb key
 
-PORT=<the port you want the project to run on>
+PORT= the port you want the project to run on
